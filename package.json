@@ -1,0 +1,22 @@
+{
+  "name": "comic-book-catalog",
+  "version": "1.0.0",
+  "description": "A simple app/site to test my js skills and to catalog my comic book collection.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com:philcady/comic-book-catalog.git)"
+  },
+  "keywords": [
+    "comicbooks"
+  ],
+  "author": "Phil Cady <phillip.m.cady@gmail.com> (http://philcady.com)",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^3.1.0"
+  }
+}
